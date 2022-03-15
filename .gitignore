@@ -2,3 +2,6 @@ data
 latest.yml
 config
 lsws/conf
+
+localcerts
+.vscode
